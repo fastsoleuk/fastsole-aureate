@@ -199,7 +199,7 @@ function Home({ state, actions, libraries }) {
         {`{
           "@context": "https://schema.org",
           "@type": "Organization",
-          url: "https://dev.fastsole.co.uk",
+          url: "https://fastsole-wordpress.devsite.cc",
           sameAs: [
             "https://www.facebook.com/fastsole/",
             "https://www.instagram.com/fastsole/",
@@ -234,7 +234,7 @@ function Home({ state, actions, libraries }) {
               contactType: "Sales and advertising",
             },
           ],
-          "@id": "https://dev.fastsole.co.uk/#organization",
+          "@id": "https://fastsole-wordpress.devsite.cc/#organization",
           name: "Fast sole",
           logo: "https://fastsole.co.uk/wp-content/themes/fs/img/logo.png",
         }`}
