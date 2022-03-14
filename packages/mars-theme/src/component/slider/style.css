@@ -1,0 +1,30 @@
+.react-multiple-carousel__arrow--right {
+  right: calc(0% + 0px);
+}
+
+.react-multiple-carousel__arrow--left {
+  left: calc(0% + 0px);
+}
+
+form.wpcf7-form.init {
+  border-radius: var(--chakra-radii-md);
+  border: 1px solid #cad5db;
+  box-shadow: 1px 1px 1px 0px #cfd1d1;
+  padding: var(--chakra-space-10);
+}
+
+.form-row {
+  text-align: initial;
+}
+
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required,
+textarea.wpcf7-form-control.wpcf7-textarea {
+  width: 100%;
+  border-bottom: 1px solid #e2e8f0;
+  padding-top: 15px;
+  color: #d3d5d7;
+}
+
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+  margin-bottom: 10px;
+}

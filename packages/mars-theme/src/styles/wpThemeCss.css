@@ -1,0 +1,17 @@
+.product-details,
+.news-content {
+  line-height: 28px;
+}
+
+.product-details {
+  margin-bottom: 30px; 
+}
+
+.product-details p {
+  margin: 0 0 10px;
+}
+
+.product-details a {
+  color: #ea2027;
+  text-decoration: none;
+}
